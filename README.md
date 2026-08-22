@@ -23,3 +23,4 @@ Las plataformas de *Quick-Commerce* enfrentan pérdidas operativas debido a canc
 * **Asignación Dinámica de Conductores:** Desfasar la notificación al repartidor según el tiempo histórico de preparación de cada restaurante (evita minutos muertos del chofer en la tienda).
 * **Acuerdos de Nivel de Servicio (SLA) & Penalizaciones:** Implementar ajustes en el algoritmo de visibilidad o cargos por tiempo de espera a tiendas que superen recurrentemente el tiempo límite de cocina.
 * **Incentivos a Aliados Eficientes:** Priorizar en el motor de búsqueda a los comercios con menor tiempo de preparación e imprecisión de $ETA$.
+
