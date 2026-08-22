@@ -1,0 +1,2 @@
+# n-lisis-de-Eficiencia-Operativa-Tasa-de-Cancelaci-n-y-Desfase-de-ETA-en-Plataformas-de-Delivery
+Análisis de 50,000 pedidos de delivery para identificar la causa raíz del incremento en el tiempo estimado de llegada (ETA), retrasos y cancelaciones. El estudio reveló que el cuello de botella proviene de tiempos muertos en restaurantes, no de los repartidores, permitiendo diseñar un plan de eficiencia.
